@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fb-leak/static/css/main.0c03422f.chunk.css",
+    "main.js": "/fb-leak/static/js/main.73554304.chunk.js",
+    "main.js.map": "/fb-leak/static/js/main.73554304.chunk.js.map",
+    "runtime-main.js": "/fb-leak/static/js/runtime-main.39525d25.js",
+    "runtime-main.js.map": "/fb-leak/static/js/runtime-main.39525d25.js.map",
+    "static/js/2.0a913d9f.chunk.js": "/fb-leak/static/js/2.0a913d9f.chunk.js",
+    "static/js/2.0a913d9f.chunk.js.map": "/fb-leak/static/js/2.0a913d9f.chunk.js.map",
+    "static/js/3.513745cb.chunk.js": "/fb-leak/static/js/3.513745cb.chunk.js",
+    "static/js/3.513745cb.chunk.js.map": "/fb-leak/static/js/3.513745cb.chunk.js.map",
+    "index.html": "/fb-leak/index.html",
+    "static/css/main.0c03422f.chunk.css.map": "/fb-leak/static/css/main.0c03422f.chunk.css.map",
+    "static/js/2.0a913d9f.chunk.js.LICENSE.txt": "/fb-leak/static/js/2.0a913d9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39525d25.js",
+    "static/js/2.0a913d9f.chunk.js",
+    "static/css/main.0c03422f.chunk.css",
+    "static/js/main.73554304.chunk.js"
+  ]
+}
